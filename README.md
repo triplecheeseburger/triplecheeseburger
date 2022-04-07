@@ -1,6 +1,7 @@
 ![hakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=triplecheeseburger&show_icons=true&theme=radical)
 
-[![hakim's 42 stats](https://badge42.herokuapp.com/api/stats/hakim)](https://profile.intra.42.fr/users/hakim)
+[![hakim's 42 stats](https://badge42.vercel.app/api/v2/cl1onme4g003509mlk78fxrcn/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
+
 <!--
 **triplecheeseburger/triplecheeseburger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
