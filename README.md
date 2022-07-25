@@ -1,4 +1,11 @@
 
+## ✏️ Education
+<ul>
+<li> Hankuk University of Foreign Studies(HUFS), English Interpretation and Translation (2012.03 ~ 2016.02) </li>
+<li> 42Seoul La Piscine (2021.09 ~ 2021.10) </li>
+<li> 42Seoul Cadet (2021.11 ~ )
+</ul>
+
 ## 42Seoul Cadet Since 2021.11
 [![hakim's 42 stats](https://badge42.vercel.app/api/v2/cl1onme4g003509mlk78fxrcn/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
 
