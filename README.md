@@ -3,13 +3,16 @@
 <ul>
 <li> Hankuk University of Foreign Studies(HUFS), English Interpretation and Translation (2012.03 ~ 2016.02) </li>
 <li> 42Seoul La Piscine (2021.09 ~ 2021.10) </li>
-<li> 42Seoul Cadet (2021.11 ~ )</li>
+<li> 42Seoul Cadet (2021.11 ~ 2023.07)</li>
+<li> 42Seoul Member (2023.08 ~ )</li>
 </ul>
 
-
-## What I've been studying so far
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=spring_boot&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+## Projects
+<a href="https://42gg.kr"><img width="315" alt="42gg" src="https://github.com/triplecheeseburger/triplecheeseburger/assets/90166901/6e791684-b909-4d02-a8b4-9050e22e0c7b"></a> 
+<br> [42서울 탁구 랭크 매치 사이트 42GG] <br>
+<br>
+<a href="https://drpong.co"><img width="315" alt="스크린샷 2023-10-16 오후 1 11 27" src="https://github.com/triplecheeseburger/triplecheeseburger/assets/90166901/5464175f-b733-45cf-a2e5-39c18d63f8ff">
+<br> [실시간 Pong 대전 & 채팅 사이트 Dr. Pong] <br>
 
 ## Contacts
 <a href="https://regice.tistory.com"><img src="https://img.shields.io/badge/Tistory-00ced1?style=flat-square"/></a> 
