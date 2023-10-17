@@ -8,14 +8,14 @@
 </ul>
 
 ## Projects
-<a href="https://42gg.kr"><img width="315" alt="42gg" src="https://github.com/triplecheeseburger/triplecheeseburger/assets/90166901/6e791684-b909-4d02-a8b4-9050e22e0c7b"></a> 
-<br> [42서울 탁구 랭크 매치 사이트 42GG] <br>
+<img width="315" alt="42gg" src="https://github.com/triplecheeseburger/triplecheeseburger/assets/90166901/6e791684-b909-4d02-a8b4-9050e22e0c7b">
+<br><a href="https://42gg.kr">[42서울 탁구 랭크 매치 사이트 42GG]</a><br>
 <br>
-<a href="https://drpong.co"><img width="315" alt="스크린샷 2023-10-16 오후 1 11 27" src="https://github.com/triplecheeseburger/triplecheeseburger/assets/90166901/5464175f-b733-45cf-a2e5-39c18d63f8ff"></a>
-<br> [실시간 Pong 대전 & 채팅 사이트 Dr. Pong] <br>
-
-<a href="https://ittae.com"><img width="315" alt="스크린샷 2023-10-16 오후 1 11 27" src="https://github.com/triplecheeseburger/triplecheeseburger/assets/90166901/f2a424ac-e7ad-437d-be2d-8080ff5240f1"></a>
-<br> [약속 잡는 건 이때로! 일정 조율 서비스 ittae] <br>
+<img width="315" alt="스크린샷 2023-10-16 오후 1 11 27" src="https://github.com/triplecheeseburger/triplecheeseburger/assets/90166901/5464175f-b733-45cf-a2e5-39c18d63f8ff"></a>
+<br> <a href="https://drpong.co">[실시간 Pong 대전 & 채팅 사이트 Dr. Pong]</a> <br>
+<br>
+<img width="315" alt="스크린샷 2023-10-16 오후 1 11 27" src="https://github.com/triplecheeseburger/triplecheeseburger/assets/90166901/f2a424ac-e7ad-437d-be2d-8080ff5240f1"></a>
+<br> <a href="https://ittae.com">[약속 잡는 건 이때로! 일정 조율 서비스 ittae]</a> <br>
 
 ## Contacts
 <a href="https://regice.tistory.com"><img src="https://img.shields.io/badge/Tistory-00ced1?style=flat-square"/></a> 
